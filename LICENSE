@@ -1,0 +1,14 @@
+No law text is published. This repository holds metadata only.
+
+Catalogue entries (bill number, title, Royal Assent date) are facts recorded in the Votes and
+Proceedings of the Legislative Assembly of Saskatchewan (https://www.legassembly.sk.ca). No text of
+those documents is reproduced.
+
+The "legal-system" facts come from Wikidata (https://www.wikidata.org), released under CC0 1.0.
+
+The statutes of Saskatchewan are published by the King's Printer (Publications Saskatchewan,
+https://publications.saskatchewan.ca), whose terms prohibit redistribution without a written
+copyright release. They are not copied here.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
